@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋 ･ Hi, I'm koolami!
+#### My Tech Stack:  
+— git/github  
+— sql databases (postgresql)  
+— nosql databases (mongodb)  
+— python language  
+— javascript language  
+— design patterns   
+— UX/UI design (figma)   
+— frontend (html5, css3)    
+— websockets, rest api  
 
-<!--
-**kooolami/kooolami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Check My Links:     
+— [My Site](https://kooolami.github.io/kooolami)    
+— [Quantum Core](https://kooolami.github.io/quantumcore)    
+— [Best Discord Bot](https://kooolami.github.io/quantumbot)
